@@ -1,2 +1,2 @@
-export GH_USER=<your_gh_username>
-export GH_TOKEN=<your_gh_pat>
+export GH_USER=49-3
+export GH_TOKEN=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

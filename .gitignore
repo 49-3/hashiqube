@@ -14,5 +14,7 @@ jenkins/jenkins_home/**
 **packer_cache*
 hashicorp/packer/windows/output**
 hashicorp/packer/windows/ansible/connection_plugins/__pycache__**
+hashicorp/nomad/secrets.sh
 **.box
 **.iso
+
